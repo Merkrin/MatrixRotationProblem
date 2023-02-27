@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SmthProj.iml" filepath="$PROJECT_DIR$/SmthProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatrixRotationProblem.iml" filepath="$PROJECT_DIR$/MatrixRotationProblem.iml" />
     </modules>
   </component>
 </project>
